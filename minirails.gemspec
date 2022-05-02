@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ['lorrydriveloper@gmail.com']
 
   spec.summary = 'Learning Internal Rails rebuilding it.'
-  spec.description = 'TODO: Write a longer description or delete this line.'
+  spec.description = ''
   spec.homepage = ''
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 2.6.0'
